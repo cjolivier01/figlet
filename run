@@ -1,0 +1,1 @@
+$(dirname $0)/figlet -j -m 1 -f $(dirname $0)/fonts/big.flf $@
